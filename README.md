@@ -42,7 +42,7 @@ Getting the project up and running on your local machine is straightforward.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/developerrahulofficial/impressingCrush.git](https://github.com/developerrahulofficial/impressingCrush.git)
+    git clone https://github.com/SHAURYASANYAL3/impressingcrush.git
     ```
 2.  **Navigate to the Project Folder:**
     ```bash
